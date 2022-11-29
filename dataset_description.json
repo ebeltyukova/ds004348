@@ -1,0 +1,12 @@
+{
+    "Name": "Ear-EEG Sleep Monitoring 2017 (EESM17)",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Kaare B. Mikkelsen",
+        "David B. Villadsen",
+        "Laura Birch",
+        "Marit Otto",
+        "Preben Kidmose"
+    ]
+}
