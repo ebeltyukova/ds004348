@@ -25,6 +25,10 @@ When citing this data set, please refer to this paper.
 
 Please note that for all subjects, the sleep scoring begins at 'Lights out'.
 
+** Notes **
+
+Due to a miscommunication in the original sleep study, two ear-EEG channels, ERB1 and ELB1, were not used. However, they are included in the data set. Both electrode positions were very close to the ERB and ELB positions. 
+
 **Contact**
 
 For questions regarding this data set, contact: 
