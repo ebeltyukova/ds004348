@@ -1,9 +1,0 @@
-{
-    "gender": {
-        "Description": "gender of participant",
-        "Gender": {
-            "m": "male",
-            "f": "female"
-        }
-    }
-}
