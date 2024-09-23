@@ -1,3 +1,5 @@
+1.0.5 2024-09-23
+  - Fixed issues with source data edf files.
 1.0.4 2024-05-14
   - Made note in README regarding ERB1 and ELB1 electrodes
 1.0.3 2023-10-16
